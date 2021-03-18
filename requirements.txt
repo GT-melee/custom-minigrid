@@ -1,0 +1,9 @@
+numpy
+matplotlib
+tqdm
+gym==0.17.3
+gym_minigrid
+stable_baselines3
+torch
+torchvision
+networkx
